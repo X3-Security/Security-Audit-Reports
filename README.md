@@ -7,7 +7,7 @@ Welcome to the X3 Security Audit Reports repository. Here, we showcase comprehen
 
 ## Contents
 - [Security Audit Reports](#protocol-audit-reports)
-  - [Mondrian Wallet Audit Report](./Mondrian-Wallet-Audit-Report.pdf)
+  - [Mondrian Wallet Audit Report](./MondrianWallet-audit-report.pdf)
 
 ## Protocol Audit Reports
 We conduct detailed security audits for various protocols. Each report includes the following sections:
