@@ -28,5 +28,3 @@ For any inquiries or further information, please contact us at [x3security.crypt
 ## Disclaimer
 The security audit reports provided in this repository are based on our best efforts to identify vulnerabilities within the specified time frames. They do not constitute an endorsement of the audited protocols. Users are advised to perform their own due diligence before making any decisions based on these reports.
 
-## License
-This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more information.
