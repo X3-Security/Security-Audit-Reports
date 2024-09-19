@@ -9,6 +9,8 @@ Welcome to the X3 Security Audit Reports repository. Here, we showcase comprehen
 - [Security Audit Reports](#protocol-audit-reports)
   - [Mondrian Wallet Audit Report](./MondrianWallet-audit-report.pdf)
   - [Steadefi Audit Report](./Steadify-audit-report.pdf)
+  - [Caviar Privaye Pools Audit Report](./Caviar-Private-Pools-audit-report.pdf)
+  - [Foundry Stablecoin Audit Report](./Foundry-Stablecoin-audit-report.pdf)
 
 ## Protocol Audit Reports
 We conduct detailed security audits for various protocols. Each report includes the following sections:
